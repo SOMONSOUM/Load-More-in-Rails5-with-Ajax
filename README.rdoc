@@ -1,0 +1,5 @@
+== README
+
+This is a tutorial application to demonstrate load more results with ajax, jquery and rails
+
+http://josephndungu.com/tutorials/rails-load-more-results-using-jquery-ajax
